@@ -19,7 +19,7 @@ $(call inherit-product, vendor/kangos/evolution/config/common_full_phone.mk)
 
 # Props
 KANGOS_MAINTAINER := jhonlu
-EVO_BUILD_TYPE := OFFICIAL
+kANGOS_BUILD_TYPE := OFFICIAL
 EVO_SUPPORT_URL := https://t.me/EvolutionXLaurel_Sprout
 EVO_DONATE_URL := https://pages.razorpay.com/HemantSachdevaa
 
